@@ -6,6 +6,7 @@
 # Задача 1
 
 docker run --name netology2 -e POSTGRES_PASSWORD=123 -v my_dbdata:/var/lib/postgresql/data -d postgres:13
+![alt text] 
 docker exec -it netology2 psql -U postgres
 Для вывода списка БД в psql можно использовать команду: \l
 Для подключения к БД используется команда: \c dbname username
