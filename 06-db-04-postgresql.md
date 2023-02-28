@@ -1,6 +1,6 @@
 # PostgreSQL
 
-# https://github.com/netology-code/virt-homeworks/tree/virt-code/PostgreSQL
+# https://github.com/netology-code/virt-homeworks/tree/virt-11/06-db-04-postgresql
 
 
 # Задача 1
