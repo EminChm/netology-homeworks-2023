@@ -67,7 +67,7 @@ SHOW PROFILES;
 
 docker exec netology-test cat /etc/my.cnf
 cat /etc/my.cnf
-docker cp netology-test:/etc/my.cnf .
+docker cp netology-test:/etc/my.cnf 
 docker cp my_mysql_container:/etc/my.cnf 
 docker cp my.cnf netology-test:/etc/my.cnf
 
