@@ -34,6 +34,7 @@
 ![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-22%2021-41-12.png)
 
 Инициализируйте проект, выполните код. Исправьте возникшую ошибку. Ответьте в чем заключается ее суть?:
+
 code = InvalidArgument desc = the specified number of cores is not available on platform "standard-v1"; allowed core number: 2, 4
 
 что означает preemptible = true и core_fraction в параметрах ВМ? Как это может пригодится в процессе обучения?:
