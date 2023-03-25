@@ -50,5 +50,13 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     Создайте в корне проекта файл 'vms_platform.tf' . Перенесите в него все переменные ВМ.
     Скопируйте блок ресурса и создайте с его помощью вторую ВМ: "netology-develop-platform-db" , cores = 2, memory = 2, core_fraction = 20. Объявите ее переменные с префиксом vm_db_ в том же файле.
     Примените изменения.
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-25%2017-57-34.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-25%2017-58-37.png)
 
+# Задание 4
 
+    Объявите в файле outputs.tf отдельные output, для каждой из ВМ с ее внешним IP адресом.
+    Примените изменения.
+
+В качестве решения приложите вывод значений ip-адресов команды terraform output
+![alt text]()
