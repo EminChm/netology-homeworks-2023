@@ -66,4 +66,5 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     В файле locals.tf опишите в одном local-блоке имя каждой ВМ, используйте интерполяцию по примеру из лекции.
     Замените переменные с именами ВМ из файла variables.tf на созданные вами local переменные.
     Примените изменения.
-
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/104.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/103.png)
