@@ -29,9 +29,9 @@
     скриншот успешного подключения к консоли ВМ через ssh,
     ответы на вопросы.
 
-![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-22%2021-24-55.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/101.png)
 
-![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-22%2021-41-12.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/102.png)
 
 # Инициализируйте проект, выполните код. Исправьте возникшую ошибку. Ответьте в чем заключается ее суть?: 
 
