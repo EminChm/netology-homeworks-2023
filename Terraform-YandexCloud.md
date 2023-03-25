@@ -59,4 +59,11 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     Примените изменения.
 
 В качестве решения приложите вывод значений ip-адресов команды terraform output
-![alt text]()
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-25%2018-04-00.png)
+
+# Задание 5
+
+    В файле locals.tf опишите в одном local-блоке имя каждой ВМ, используйте интерполяцию по примеру из лекции.
+    Замените переменные с именами ВМ из файла variables.tf на созданные вами local переменные.
+    Примените изменения.
+
