@@ -68,3 +68,11 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     Примените изменения.
 ![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/104.png)
 ![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/103.png)
+
+# Задание 6
+
+    Вместо использования 3-х переменных ".._cores",".._memory",".._core_fraction" в блоке resources {...}, объедените их в переменные типа map с именами "vm_web_resources" и "vm_db_resources".
+    Так же поступите с блоком metadata {serial-port-enable, ssh-keys}, эта переменная должна быть общая для всех ваших ВМ.
+    Найдите и удалите все более не используемые переменные проекта.
+    Проверьте terraform plan (изменений быть не должно).
+
