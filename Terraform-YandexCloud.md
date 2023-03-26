@@ -68,6 +68,8 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     Примените изменения.
 ![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/104.png)
 ![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/103.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot_from_2023-03-26_18-02-15.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-26%2021-10-48.png)
 
 # Задание 6
 
