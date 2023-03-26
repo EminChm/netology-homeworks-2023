@@ -75,4 +75,6 @@ code = InvalidArgument desc = the specified number of cores is not available on 
     Так же поступите с блоком metadata {serial-port-enable, ssh-keys}, эта переменная должна быть общая для всех ваших ВМ.
     Найдите и удалите все более не используемые переменные проекта.
     Проверьте terraform plan (изменений быть не должно).
-
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-26%2021-04-01.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-26%2021-03-33.png)
+![alt text](https://github.com/EminChm/netology-homeworks-2023/blob/main/Screenshot%20from%202023-03-26%2021-03-15.png)
